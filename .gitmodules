@@ -7,4 +7,4 @@
 	url = https://github.com/cran/MSPRT
 [submodule "vacalibration"]
 	path = vacalibration
-	url = https://github.com/cran/vacalibration
+	url = https://github.com/sandy-pramanik/vacalibration
